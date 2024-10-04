@@ -13,4 +13,4 @@ This website will help farmers to save time, effort, and money while improving t
 5. Weather API to help farmer know about future climatic changes of their area.
 Without sources like GitHub, YouTube, it's very difficult for me to make this project very user-friendly so I am very grateful to that.
 
-Note: I have also deployed this site on replit you can also check from that.  https://replit.com/@charmee123/KrishakVriddhi?v=1
+
